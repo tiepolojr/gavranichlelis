@@ -1,0 +1,183 @@
+@media (max-width: 1200px) {
+.caption h1{ font-size: 40px;}
+}
+@media (max-width: 1199px) {
+.tc-nav-list > li a{ padding: 20px 10px;}
+.facts-lsit ul li{ padding: 0 27px;}
+.facts-lsit ul li strong{ font-size: 30px;}
+.facts-lsit ul li span{ font-size: 15px;}
+.welcome-detail .detail-inner p{ font-size: 12px;}
+.blockquote.style-1{ font-size: 15px;}
+.servise-detail-text h2{ font-size: 25px;}
+.servise-detail-text p{ font-size: 13px; margin: 0 0 10px;}
+.accordion h4{ font-size: 15px;}
+.accordion p{ font-size: 11px;}
+.meta-post{ margin: 0 0 10px;}
+.meta-post li{ margin: 0 0 0 10px;}
+.blog-post-detail{ padding: 0;}
+.blog-post-detail h3{ margin: 0 0 18px;}
+.blog-post-detail p{ margin: 0 0 10px; font-size: 11px;}
+.attorney-detail h3{ font-size: 20px;}
+.client-review h4{ font-size: 14px;}
+.address-list ul li{ font-size: 15px;}
+
+.practice-column.style-3 .practice-column-btm{ padding: 0;}
+.blog-img{ margin: 0 0 30px;}
+.blog-list-grid .post-grig-widget{ margin: 0 0 30px!important;}
+}
+
+@media (max-width: 1024px) {
+.caption-text h2{ font-size: 28px;}
+}
+
+@media (max-width: 991px) {
+.top-right-side .social-icons{ display: none;} 
+.top-right-side .btn{ margin: 0;}
+.site-info ul li{ font-size: 13px;} 
+
+/* Responsive Menu */
+.navigation-holder .navbar-toggle{ display:block; color:#666; float:right; margin: 20px 0 0; line-height: 0;
+font-size: 20px; cursor: pointer; padding: 0;}
+.navigation-holder .navbar-collapse.collapse{ display: none !important; z-index: 1000; height: auto !important; 
+overflow: visible !important; visibility: visible !important;}
+.navigation-holder .navbar-collapse{ position: absolute; padding: 0 20px; top: 100%; width: 250px; right: 0; background: #fff;
+border: 1px solid #ccc; z-index: 101;}
+.navigation-holder .navbar-collapse ul li{ width:100%; margin:0; }
+.navigation-holder .navbar-collapse ul li a{ text-align: left;}
+.navigation-holder .navbar-collapse ul li{ position: relative;}
+.navigation-holder .navbar-collapse ul li.active a::before{ width: 10px; margin: 0;} 
+.navigation-holder .navbar-collapse.collapse.in{ display:block !important;}
+.inner-header .navbar-toggle i{ color: #282828;}
+/* Responsive Menu */
+
+.welcome-detail{ margin: 60px 0 0;}
+.welcome-img{ display: none;}
+.facts-lsit ul li{ padding: 0 17px;}
+.facts-lsit ul li span{ font-size: 12px;}
+.group-img{ display: none;}
+.services-info{ padding: 60px 0;}
+.servise-detail-text{ padding: 0;}
+.why-chose{ margin: 0 0 60px;} 
+.contact-detail h2{ font-size: 20px;}
+.blog-img{ margin: 0 0 30px;}
+.blog-img img{ width: 100%;}
+
+.attorney-column{ padding: 0 85px;}
+.attorney-img img{ width: 100%;}
+ 
+.practice-column.style-3 .practice-img{ margin: 0 0 30px;}
+.post-aurthor .aurthor-detail{ padding: 0;}
+
+.attorney-column.style-1{ margin: 0;}
+.attorney-column.style-1 > div > div{ margin: 0 0 30px;}
+.attorney-clumn.style-3{ padding: 0;}
+.personal-detail{ padding: 20px; max-width: 430px;}
+
+.gallary-figure{ margin: 0 0 30px!important;}
+.video-post iframe{ height: 330px;}
+
+.about-device h2{ font-size: 20px;}
+.about-device{ padding: 0;}
+.footer-columns .footer-widget{ min-height: 300px;}
+
+} 
+
+@media (max-width: 800px) {
+.caption h1{ font-size: 30px;}
+.caption-text h2{ font-size: 22px;}
+}
+
+@media (max-width: 767px) {
+.caption-text h2{ font-size: 20px;}
+.footer-columns .footer-widget{ margin: 15px 0;}
+
+.page-heading{ float: none!important; width: 100%; text-align: center;}
+.tc-breadcrumb{ float: none!important; width: 100%; text-align: center;}
+.tc-breadcrumb ul{ display: inline-block;}
+.tc-breadcrumb ul li{ font-size: 11px;}
+.tc-breadcrumb ul li a{ font-size: 11px;}
+.attorney-column{ padding: 0;}
+.caption-text h2{ font-size: 16px; line-height: 25px;}
+.caption-text{ padding: 0 30px;}
+}	
+
+@media (max-width: 639px) {
+.caption h1{ font-size: 20px;}
+.caption p{ display: none;}
+.caption .btn{ font-size: 13px;}
+
+.facts-lsit{ position: relative; padding: 0; margin: 0; top: auto; background: none; border: 0;}
+.facts-lsit ul li{ padding: 15px 0; width: 50%; text-align: center; border: 0;}
+.facts-lsit ul li strong{ color: #fff; font-size: 40px;}
+.facts-lsit ul li span{ font-size: 18px;}
+.facts-section .btn{ margin: 30px 0 0;}
+.address-list ul li{ width: 50%;}
+
+.site-info ul{ display: none;}
+.welcome-detail{ margin: 60px 0; padding-bottom: 0;}
+
+.personal-detail{ box-shadow: none!important; position: static; transform: translate(0, 0); max-width: 100%; left: 0; overflow: hidden;}
+.attorney-img{ margin: 0!important;}
+
+.device-img{ display: none;}
+.contact-detail .btn{ font-size: 18px;}
+.contact-detail .btn i{ line-height: 50px;}
+.contact-detail p{ font-size: 16px;}
+.detail-inner h2{ font-size: 26px;}
+.post-item{ padding: 0;}
+.r-full-width2{ width: 100%;}
+.caption-text{ text-align: center!important;}
+
+}
+
+@media (max-width: 479px) {
+.r-full-width{ width: 100%!important;}
+.facts-lsit ul li{ width: 100%;}
+.accordion h4{ font-size: 14px;}
+.consultation-banner .form-group{ margin: 0 0 20px!important;}
+.attorney-img{ margin: 0 0 10px!important;}
+.attorney-column{ padding: 0;}
+.client-img { display: none;}
+.client-review{ margin: 0;}
+.client-review p{ font-size: 12px;}
+.post-item{ padding: 0;}
+.blog-post-slider .owl-controls{ display: none;}
+.contact-detail h2{ font-size: 16px;}
+.contact-detail .btn{ font-size: 18px;}
+.contact-detail .btn i{ line-height: 50px;}
+.slider-nav{ display: none;}
+.caption{ display: none;}
+
+.video-post iframe{ height: 260px;}
+
+.pagination-holder ul li a{ padding: 5px 10px;}
+.pagination-holder ul li:first-child a, .pagination-holder ul li:last-child a{ padding: 5px 10px;}
+.meta-post li{ font-size: 12px;}
+
+}
+
+@media (max-width: 360px) {
+h2{ font-size: 16px;}
+.logo a{ width: 160px;}
+.logo a img{ width: 100%;}
+.search-field{ margin-top: 0;}
+.navigation-holder .navbar-toggle{ margin-top: 12px;}
+.attorney-column{ padding: 0;}
+.client-review{  padding: 30px;}
+.client-review::before{ top: 5px; font-size: 20px; left: 10px;}
+.address-list ul li{ width: 100%;}
+.sub-footer{ text-align: center;}
+.sub-footer p{ float: none; margin: 0 0 30px;}
+.sub-footer .social-icons{ float: none; display: inline-block;}
+.meta-post{ margin:0 0 0 -10px;}
+.meta-post li{ margin: 0 0 10px 10px!important;}
+.blockquote.style-1::before{ font-size: 30px; left: 0;}
+.blockquote.style-1{ padding: 0 0 0 40px;}
+.top-right-side .btn{ font-size: 10px;}
+
+.practice-detail blockquote{ padding: 0 0 0 60px;}
+.post-aurthor img{ position: static; margin: 0 0 30px; width: 100%;}
+.post-aurthor{ padding: 0;}
+
+.video-post iframe{ height: 150px;}
+}

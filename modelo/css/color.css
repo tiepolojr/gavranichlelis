@@ -1,0 +1,78 @@
+/*  Theme Color */
+a:hover,
+.search-field a,
+.blockquote.style-1::before,
+.tc-color,
+.practice-img .practice-icon,
+.owl-prev,
+.owl-next,
+.signatur-list li,
+.accordion-marker i,
+.meta-post li i,
+.basic-color,
+.latest-tweets ul li i,
+.tc-breadcrumb ul li a:hover,
+.a-link,
+.practice-detail blockquote q::before,
+.service-column i,
+.tc-nav-list > li a:hover,
+.search-box button
+{ color: #c7a92f;} 
+
+/* Theme Backgroung Color */
+.btn.width-icon::before, 	
+.slider-nav:hover,
+.owl-prev,
+.owl-next,
+.accordion > div.active h4,
+.accordion > div.active .accordian-content,
+.we-do-best ul li:hover span,
+.btn.width-bg,
+.btn.icon i,
+.owl-dots .owl-dot.active,
+.btn::before,
+.btn.white-bg:hover,
+.top-bar .btn:hover,
+.btn.read-more:hover,
+.practice-column:hover .practice-icon,
+.pagination-holder ul li:first-child a,
+.pagination-holder ul li:last-child a,
+.pagination-holder ul li a:hover,
+.tc-skillholder,
+.tc-per,
+.scrollup,
+.aside-widget .search-bar button,
+.categories-list ul li a:hover
+{ background: #c7a92f;}
+
+/* Theme Border Color */
+.slider-nav:hover,
+.practice-img .practice-icon,
+.owl-prev,
+.owl-next,
+.we-do-best ul li:hover span,
+.latest-tweets ul li,
+.btn,
+.pagination-holder ul li a,
+.pagination-holder ul li a:hover,
+.form-control:focus,
+.consultation-banner .form-control,
+.service-column h3::before,
+.tc-nav-list li ul li a,
+.tc-nav-list li ul li a:hover
+{ border-color: #c7a92f;}
+
+/* THeme Basic Rgba */
+.caption-banner.style-1::before,
+.practice-img .overlay,
+.gallary-figure .overlay
+{ background: rgba( 199,169,47,0.6);}
+
+/* Theme basic Important */
+.owl-prev:hover,
+.owl-next:hover
+{ color: #c7a92f!important;} 
+
+/* Trinagle Border Color */
+.tc-per::before
+{border-color: #c7a92f transparent transparent transparent;}

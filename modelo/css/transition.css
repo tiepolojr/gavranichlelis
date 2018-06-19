@@ -1,0 +1,35 @@
+/* Theme transition Effect */
+*:after,
+*:before,
+a,
+p,
+h1,h2,h3,h4,h5,h6,
+button,
+.practice-slider .owl-prev,
+.practice-slider .owl-next,
+.accordion > div.active .accordian-content p,
+.accordion .accordian-content,
+.we-do-best ul li span,
+.owl-dots .owl-dot,
+.owl-prev,
+.owl-next,
+.practice-img img,
+.practice-icon,
+.overlay,
+.overlay-padding,
+.tc-nav-list ul,
+.on-click,
+.header,
+.scrollup
+{-webkit-transition: all 0.4s ease-in-out;
+-moz-transition: all 0.4s ease-in-out;
+-ms-transition: all 0.4s ease-in-out;
+-o-transition: all 0.4s ease-in-out;
+transition: all 0.4s ease-in-out;}
+
+
+
+
+
+
+
